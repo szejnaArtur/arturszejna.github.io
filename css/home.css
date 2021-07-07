@@ -301,7 +301,7 @@ select {
 }
 
 .services .title::after{
-	min-weight: 135px;
+	min-width: 135px;
 }
 
 .services .serv-content .card {
@@ -511,7 +511,7 @@ select {
 /*  CONTACT  */
 .contact .title::after {
     content: "Bądź w kontakcie";
-	min-weight: 161px;
+	min-width: 161px;
 }
 
 .contact .contact-content .column {
